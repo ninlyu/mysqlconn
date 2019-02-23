@@ -1,0 +1,26 @@
+{
+  "name": "mysqlconn",
+  "version": "1.0.0",
+  "description": "mysql connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninlyu/mysqlconn.git"
+  },
+  "keywords": [
+    "mysql",
+    "connector"
+  ],
+  "author": "ninlyu.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninlyu/mysqlconn/issues"
+  },
+  "homepage": "https://github.com/ninlyu/mysqlconn#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
